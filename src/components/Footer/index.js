@@ -3,7 +3,7 @@ import React from "react";
 
 function Footer () {
 return(
-<div className="p-10 bg-blue-900 text-blue-200 flex">
+<div className="p-10 bg-blue-900 text-blue-200 fle" style={{textAlign: "center"}}>
 <div>
 <div>
     <p>

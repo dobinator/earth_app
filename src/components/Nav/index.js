@@ -5,7 +5,7 @@ function Nav() {
 
   return (
     // left side
-   <div className="bg-bg-blue-300 p-4 flex justify-between items-center">
+   <div className="bg-blue-50 p-4 flex justify-between items-center">
      
      <div className="flex items-center">
      <img 
@@ -22,7 +22,7 @@ function Nav() {
       <a href= "#"
       className= "inline-block p-2 text-blue-600 mr-2">Login</a>
       <a href= "#"
-      className= "inline-block p-2 px-4 text-yellow-600 bk-yellow-400 hover: bg-indigo 600 hover:text- indigo 50 rounded">Sign up</a>
+      className= "inline-block p-2 px-4 text-yellow-600 bk-yellow-400 hover: bg-yellow 300 hover:text-yellow 100 rounded">Sign up</a>
     </div>
 
 
