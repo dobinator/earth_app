@@ -11,7 +11,7 @@ return (
             <a href="#"className="inline-block py-3 px-6 text-lg bg-rey-400 text-grey-800 rounded mr-2">Get Started</a>
      </div>
 <div className="md:w-1/2">
- <img src="/images/hero.jpg" className= "w-full rounded-2x1"></img>
+ <img src="../images/hero.jpg" className= "w-full rounded-2x1"></img>
 
 
 </div>
