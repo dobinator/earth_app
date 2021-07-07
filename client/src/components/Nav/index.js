@@ -13,8 +13,8 @@ function Nav() {
       width= "50"
       alt="graphic of building with telescope"
       className="mr-2"></img>
-      <a href= "#" className="inline-block p-2 text-blue-600 hover:text-blue-200 mr-2">Home</a>
-      <a href= "#" className="inline-block p-2 text-blue-600 hover:text-blue-200">Search</a>
+      <a href= "#" className="inline-block p-2 text-blue-600 hover:text-blue-400 mr-2">Home</a>
+      <a href= "#" className="inline-block p-2 text-blue-600 hover:text-blue-400">Search</a>
       </div>  
     
     {/* <div className="hidden md:block"> */}
